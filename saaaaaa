@@ -1,10 +1,10 @@
 asdfasdfasdf main
 test - 2
-test2 feature-refactor
+test2 second feature-refactor feature-refactor-second
 test2
-test2 main feature-refactor
+test2 main feature-refactor second
 main4
 feature-refactor
 main4
-main4 main
-feature-refactor
+main4 main feature-refactor-second
+second feature-refactor feature-refactor-second
