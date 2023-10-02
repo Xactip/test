@@ -3,8 +3,9 @@ test - 2
 test2 second feature-refactor feature-refactor-second
 test2
 test2 main feature-refactor second
-main4
+main4 something I want to revert
 feature-refactor
 main4
 main4 main feature-refactor-second
 second feature-refactor feature-refactor-second
+something I want to revert
